@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SPENDING</string>
+    <string name="title">Summary</string>
+    <string name="title_record">Add Order</string>
+    <string name="income">Income</string>
+    <string name="spent">Spent</string>
+    <string name="balance">Balance</string>
+    <string name="history">History</string>
+    <string name="type">Type</string>
+    <string name="desc">Describe</string>
+    <string name="amount">Amount</string>
+    <string name="new_record">New Record</string>
+    <string name="type_record">Type</string>
+    <string name="amount_record">Amount</string>
+    <string name="desc_record">Describe</string>
+    <string name="example_amount">ex. 150.65</string>
+    <string name="submit">SUBMIT</string>
+    <string name="submit_title">Success</string>
+    <string name="submit_result">Your info has been saved!</string>
+    <string name="empty_title">Error</string>
+    <string name="empty_result">Input can\'t empty!</string>
+    <string name="camera_icon">camera icon</string>
+    <string name="all">All</string>
+    <string name="remove_result">The order has been removed!</string>
+</resources>
