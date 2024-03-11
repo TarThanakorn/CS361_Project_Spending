@@ -1,4 +1,4 @@
-# CS361_Project_Spending
+# CS361 Project Spending
 
 ภาษา และ Framework ที่ใช้
 1. XML
